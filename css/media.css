@@ -1,0 +1,118 @@
+@media only screen and (max-width:1200px){
+	.companies-logo{
+		overflow: hidden;
+	}
+	.header-1{
+		position: absolute;
+		left: 674px;
+		padding: 15px;
+		margin: 7px 20px;
+		position: -webkit-sticky;
+		position: sticky;
+	}
+	.header-2{
+		position: absolute;
+		left: 819px;
+		margin: 20px 20px;
+		padding: 10px;
+		position: -webkit-sticky;
+		position: sticky;
+		
+
+	}
+	.look{
+
+		font-size: 14px;
+
+	}
+	.org{
+		
+		font-size: 20px;
+	}
+
+}
+@media only screen and (max-width:1030px) {
+	.companies-logo{
+		overflow: hidden;
+	}	
+	.form-first-head{
+		font-size: 30px;
+		
+		
+	}
+	.org{
+		font-size: 15px;
+	}
+	.form-sec-head{
+		font-size: 12px;
+			
+	}
+	input[type=email],
+	textarea {
+		width:100%;
+		
+	}
+	input[type=text]{
+		width:51%;	
+	}
+	input[type=phone]{
+		width:51%;
+		margin-left: 0px;
+	}
+	.text-field3 {
+	   	width: 50%;
+	   	 font-size: 14px;
+
+	}
+	.para{
+		font-size: 13px;
+	}
+	}
+	@media only screen and (max-width:767px){
+	.companies-logo{
+		overflow: hidden;
+	}
+	.form-sec-head{
+		font-size: 12px;	
+	}
+}
+@media only screen and (max-width:503px){
+	.companies-logo{
+		overflow: hidden;
+	}
+	.look{
+		font-size: 13px;
+	}
+	.sk{
+		font-size: 13px;
+	}
+	.form-sec-head{
+		font-size: 12px;	
+	}
+	.para{
+		font-size: 10px;
+	}
+}
+@media only screen and (max-width:424px){
+	.look{	
+		font-size:10px;
+	}
+	.org{
+		font-size: 10px;
+	}
+	.para{
+		font-size: 8px;
+	}
+
+}
+@media only screen and (max-width:347px){
+	.look{	
+		font-size:8px;
+	}
+	.org{
+		font-size: 8px;
+	}
+	.para{
+		font-size: 8px;
+	}
+}
